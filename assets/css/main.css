@@ -5865,6 +5865,7 @@ input, select, textarea {
 		-webkit-transition-delay: 4.8s;
 		-ms-transition-delay: 4.8s;
 		transition-delay: 4.8s;
+		
 	}
 
 	.gallery.onload-fade-in article:nth-child(1) .image img {
@@ -5872,6 +5873,7 @@ input, select, textarea {
 		-webkit-transition-delay: 0s;
 		-ms-transition-delay: 0s;
 		transition-delay: 0s;
+		
 	}
 
 	.gallery.onload-fade-in article:nth-child(2) .image img {
@@ -6111,6 +6113,7 @@ input, select, textarea {
 		-webkit-transition-delay: 4.8s;
 		-ms-transition-delay: 4.8s;
 		transition-delay: 4.8s;
+		
 	}
 
 	.gallery.onscroll-fade-in article:nth-child(1) .image img {
@@ -6118,6 +6121,7 @@ input, select, textarea {
 		-webkit-transition-delay: 0s;
 		-ms-transition-delay: 0s;
 		transition-delay: 0s;
+		
 	}
 
 	.gallery.onscroll-fade-in article:nth-child(2) .image img {
@@ -6372,6 +6376,7 @@ input, select, textarea {
 		position: relative;
 		width: 100%;
 		background-color: transparent;
+		
 	}
 
 		.gallery.style1 input, .gallery.style1 select, .gallery.style1 textarea {
