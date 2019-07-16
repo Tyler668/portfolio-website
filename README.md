@@ -51,4 +51,7 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 ## Stretch
 
 - [X] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
-- [X] Download another template and see if you can get the CSS preprocessor working on the project
+
+Edited JS timings to change load in delay and the way the gallery scroller was presernted!
+
+- [] Download another template and see if you can get the CSS preprocessor working on the project

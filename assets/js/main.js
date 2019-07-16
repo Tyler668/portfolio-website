@@ -24,7 +24,7 @@
 		$window.on('load', function() {
 			window.setTimeout(function() {
 				$body.removeClass('is-preload');
-			}, 100);
+			}, 1);   //  									Changed this to make the page load in more instantly
 		});
 
 	// Browser fixes.
@@ -157,7 +157,7 @@
 			.scrollex({
 				top:		'30vh',
 				bottom:		'30vh',
-				delay:		50,
+				delay:		500,                        //Changed this timing to slowly display my face.
 				initialize:	function() {
 					$(this).addClass('is-inactive');
 				},
